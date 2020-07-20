@@ -1,2 +1,3 @@
 # Coroutine_Win
-A cpp coroutine libarary in windows platform
+Windows平台下实现的简易C++协程库
+采用了Windows自带的纤程，并进行了初步封装
